@@ -29,20 +29,31 @@ window.addEventListener("DOMContentLoaded", function() {
 
         bookDetailPanel.innerHTML = ''; // clear any existing selection
 
-        const bookImg = document.createElement('img');
-        const bookTitle = document.createElement('h1');
-        const bookSubtitle = document.createElement('h2');
-        const bookAuthor = document.createElement('h2');
-        const bookDesc = document.createElement('p');
-
-        bookImg.src = img_url;
-        bookTitle.textContent = title;
-        bookSubtitle.textContent = subtitle;
-        bookAuthor.textContent = author;
-        bookDesc.textContent = description;
-
-        bookDetailPanel.append(bookImg, bookTitle, bookSubtitle, bookAuthor, description);
-
+        if (img_url) {
+            const bookImg = document.createElement('img');
+            bookImg.src = img_url;
+            bookDetailPanel.append(bookImg);
+        }
+        if (title) {
+            const bookTitle = document.createElement('h1');
+            bookTitle.textContent = title;
+            bookDetailPanel.append(bookTitle);
+        }
+        if (subtitle) {
+            const bookSubtitle = document.createElement('h2');
+            bookSubtitle.textContent = subtitle;
+            bookDetailPanel.append(bookSubtitle);
+        }
+        if (author) {
+            const bookAuthor = document.createElement('h2');
+            bookAuthor.textContent = author;
+            bookDetailPanel.append(bookAuthor);
+        }
+        if (description) {
+            const bookDesc = document.createElement('p');
+            bookDesc.textContent = description;
+            bookDetailPanel.append(bookDesc);
+        }
 
     }
 
