@@ -54,6 +54,15 @@ window.addEventListener("DOMContentLoaded", function() {
             bookDesc.textContent = description;
             bookDetailPanel.append(bookDesc);
         }
+        if (users) {
+            const bookLikeList = document.createElement('ul');
+            users.forEach((user) => {
+                const bookLike = document.createElement('li');
+                bookLike.textContent = user.username;
+                bookLikeList.append(bookLike);
+            });
+            bookDetailPanel.append(bookLikeList);
+        }
 
     }
 
