@@ -9,12 +9,40 @@
       "img_url": "https://books.google.com/books/content?id=3S8Rwr-iBdoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
+          "id": 8,
+          "username": "maverick"
+        },
+        {
+          "id": 4,
+          "username": "ann"
+        },
+        {
+          "id": 6,
+          "username": "steuber"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 10,
+          "username": "macejkovic"
+        },
+        {
+          "id": 5,
+          "username": "feels-like-summer"
+        },
+        {
           "id": 2,
           "username": "auer"
         },
         {
-          "id": 8,
-          "username": "maverick"
+          "id": 3,
+          "username": "marvin"
+        },
+        {
+          "id": 9,
+          "username": "alex"
         }
       ]
     },
@@ -37,10 +65,6 @@
         {
           "id": 6,
           "username": "steuber"
-        },
-        {
-          "id": 1,
-          "username": "pouros"
         }
       ]
     },
@@ -61,8 +85,16 @@
           "username": "alex"
         },
         {
-          "id": 7,
-          "username": "summerqueen98"
+          "id": 3,
+          "username": "marvin"
+        },
+        {
+          "id": 4,
+          "username": "ann"
+        },
+        {
+          "id": 3,
+          "username": "marvin"
         }
       ]
     },
@@ -80,6 +112,10 @@
         {
           "id": 8,
           "username": "maverick"
+        },
+        {
+          "id": 3,
+          "username": "marvin"
         }
       ]
     },
@@ -90,28 +126,7 @@
       "description": "Pocket Change Collective was born out of a need for space. Space to think. Space to connect. Space to be yourself. And this is your invitation to join us. 'Thank God we have Alok. And I'm learning a thing or two myself'--Billy Porter, Emmy award-winning actor, singer, and Broadway theater performer",
       "author": "Alok Vaid-Menon",
       "img_url": "https://books.google.com/books/content?id=hxGuDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 10,
-          "username": "macejkovic"
-        },
-        {
-          "id": 4,
-          "username": "ann"
-        },
-        {
-          "id": 8,
-          "username": "maverick"
-        },
-        {
-          "id": 3,
-          "username": "marvin"
-        },
-        {
-          "id": 5,
-          "username": "feels-like-summer"
-        }
-      ]
+      "users": []
     },
     {
       "id": 6,
@@ -122,16 +137,8 @@
       "img_url": "https://books.google.com/books/content?id=54vbDgAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 7,
-          "username": "steuber"
-        },
-        {
           "id": 4,
           "username": "ann"
-        },
-        {
-          "id": 3,
-          "username": "marvin"
         }
       ]
     },
@@ -150,6 +157,26 @@
         {
           "id": 5,
           "username": "feels-like-summer"
+        },
+        {
+          "id": 9,
+          "username": "alex"
+        },
+        {
+          "id": 6,
+          "username": "steuber"
+        },
+        {
+          "id": 8,
+          "username": "maverick"
+        },
+        {
+          "id": 5,
+          "username": "feels-like-summer"
+        },
+        {
+          "id": 5,
+          "username": "feels-like-summer"
         }
       ]
     },
@@ -162,24 +189,12 @@
       "img_url": "http://books.google.com/books/content?id=EtVfCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 9,
-          "username": "alex"
-        },
-        {
-          "id": 3,
-          "username": "marvin"
-        },
-        {
           "id": 2,
           "username": "auer"
         },
         {
-          "id": 7,
-          "username": "summerqueen98"
-        },
-        {
-          "id": 4,
-          "username": "ann"
+          "id": 9,
+          "username": "alex"
         }
       ]
     },
@@ -192,24 +207,16 @@
       "img_url": "http://books.google.com/books/content?id=8thMLkahggcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
-          "username": "maverick"
-        },
-        {
           "id": 6,
           "username": "steuber"
         },
         {
+          "id": 9,
+          "username": "alex"
+        },
+        {
           "id": 5,
           "username": "feels-like-summer"
-        },
-        {
-          "id": 7,
-          "username": "summerqueen98"
-        },
-        {
-          "id": 1,
-          "username": "pouros"
         }
       ]
     },
@@ -230,16 +237,20 @@
           "username": "macejkovic"
         },
         {
-          "id": 9,
-          "username": "alex"
-        },
-        {
           "id": 1,
           "username": "pouros"
         },
         {
           "id": 3,
           "username": "marvin"
+        },
+        {
+          "id": 6,
+          "username": "steuber"
+        },
+        {
+          "id": 9,
+          "username": "alex"
         }
       ]
     },
@@ -252,16 +263,16 @@
       "img_url": "http://books.google.com/books/content?id=nEcsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
       "users": [
         {
-          "id": 8,
-          "username": "maverick"
-        },
-        {
           "id": 10,
           "username": "macejkovic"
         },
         {
           "id": 1,
           "username": "pouros"
+        },
+        {
+          "id": 2,
+          "username": "auer"
         }
       ]
     }
